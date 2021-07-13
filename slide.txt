@@ -1,0 +1,3 @@
+harapan slide:
+- membuat slide pengajaran di smk harapan bangsa
+- membuat slide sharing
